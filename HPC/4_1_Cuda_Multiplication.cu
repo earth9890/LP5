@@ -3,6 +3,10 @@
 
 #define BLOCK_SIZE 16 // Define block size for CUDA kernels
 
+/*
+Name : Harish Sugandhi , Saurabh Shete
+*/
+
 using namespace std;
 
 // CUDA kernel to perform matrix multiplication

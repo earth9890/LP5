@@ -4,6 +4,10 @@
 
     using namespace std;
 
+/*
+Name : Harish Sugandhi , Saurabh Shete
+*/
+
 // CUDA kernel to add two vectors
 __global__ void add(int *a, int *b, int *c, int n)
 {
